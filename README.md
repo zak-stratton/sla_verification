@@ -3,6 +3,6 @@ The traffic_simulator.py program contained in this repository can be used to gen
 
 Thus, this program permits us to apply load (requests/second) against a service, and measure the resulting latency.  The maximum load at which latency SLAs are still met is the **capacity** of the service.
 
-Mode of input to the program: command-line.  
-Mode of output from the program: log print-outs.  
+*Mode of input to the program*: command-line.  
+*Mode of output from the program*: log print-outs.  
 Mode of input/output can be readily re-worked, as needed.
